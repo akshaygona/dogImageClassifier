@@ -1,1 +1,2 @@
-# udacityProject1
+# Dog Image Classifier
+
